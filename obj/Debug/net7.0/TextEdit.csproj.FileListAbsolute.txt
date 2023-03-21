@@ -1,0 +1,15 @@
+D:\Cursos\Projetos\TextEdit\bin\Debug\net7.0\TextEdit.exe
+D:\Cursos\Projetos\TextEdit\bin\Debug\net7.0\TextEdit.deps.json
+D:\Cursos\Projetos\TextEdit\bin\Debug\net7.0\TextEdit.runtimeconfig.json
+D:\Cursos\Projetos\TextEdit\bin\Debug\net7.0\TextEdit.dll
+D:\Cursos\Projetos\TextEdit\bin\Debug\net7.0\TextEdit.pdb
+D:\Cursos\Projetos\TextEdit\obj\Debug\net7.0\TextEdit.csproj.AssemblyReference.cache
+D:\Cursos\Projetos\TextEdit\obj\Debug\net7.0\TextEdit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Projetos\TextEdit\obj\Debug\net7.0\TextEdit.AssemblyInfoInputs.cache
+D:\Cursos\Projetos\TextEdit\obj\Debug\net7.0\TextEdit.AssemblyInfo.cs
+D:\Cursos\Projetos\TextEdit\obj\Debug\net7.0\TextEdit.csproj.CoreCompileInputs.cache
+D:\Cursos\Projetos\TextEdit\obj\Debug\net7.0\TextEdit.dll
+D:\Cursos\Projetos\TextEdit\obj\Debug\net7.0\refint\TextEdit.dll
+D:\Cursos\Projetos\TextEdit\obj\Debug\net7.0\TextEdit.pdb
+D:\Cursos\Projetos\TextEdit\obj\Debug\net7.0\TextEdit.genruntimeconfig.cache
+D:\Cursos\Projetos\TextEdit\obj\Debug\net7.0\ref\TextEdit.dll
