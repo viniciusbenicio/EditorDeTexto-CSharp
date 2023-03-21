@@ -23,12 +23,23 @@ static void Menu()
     }
 
 }
-    static void Abrir()
-    {
+static void Abrir()
+{
+    Console.WriteLine("");
+}
 
+static void Editar()
+{
+    Console.Clear();
+    Console.WriteLine("Digite seu texto abaixo (ESC para sair)");
+    Console.WriteLine("------------------------");
+
+    string texto = "";
+
+    while (Console.ReadKey().Key != ConsoleKey.Escape)
+    {
+        texto += Console.ReadLine();
     }
 
-    static void Editar()
-    {
-
-    }
+    Console.WriteLine(texto);
+}
